@@ -9,7 +9,7 @@
     "dev": "nodemon server.js"
   },
   "engines": {
-    "node": "23.0.0"
+    "node": "22.0.0"
   },
   "dependencies": {
     "express": "^4.21.2"
