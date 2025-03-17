@@ -1,3 +1,5 @@
+This is a stateless server structure or setup that you can install locally and modify according to your requirements and later deploy to vercel.
+
 ## Getting Started
 
 Follow these steps to set up the project locally:
