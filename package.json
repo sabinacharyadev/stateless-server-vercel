@@ -9,9 +9,7 @@
     "dev": "nodemon --exec vercel dev"
   },
   "dependencies": {
-    "express": "^4.21.2"
-  },
-  "devDependencies": {
+    "express": "^4.21.2",
     "vercel": "^41.4.1"
   }
 }
