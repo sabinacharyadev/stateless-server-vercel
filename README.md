@@ -16,18 +16,12 @@ Navigate to the root directory and install dependencies:
 
 <code>yarn</code>
 
-### 3. Run the Application
+### 3. Allowing vercel to accept any defaults to run locally
+
+<code>yarn vercel --yes</code>
+
+### 4. Run the Application
 
 <code>yarn dev</code>
 
 <!-- yarn global add vercel
-
-
-
-Locally
-yarn add vercel
-
-Error: Command `vercel dev` requires confirmation. Use option "--yes" to confirm.
-
-yarn vercel --yes
--->
