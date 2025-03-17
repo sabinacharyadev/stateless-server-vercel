@@ -26,4 +26,16 @@ Navigate to the root directory and install dependencies:
 
 <code>yarn dev</code>
 
-<!-- yarn global add vercel
+ <!-- yarn global add vercel -->
+
+### USEFUL TIP
+
+If you are here to convert your existing project to stateless server and host it to vercel
+
+### 1. Add vercel.json to your root folder, this notifies vercel that it is a server
+
+![](https://i.postimg.cc/d0nHjT4L/Screenshot-2025-03-17-at-1-52-58-pm.png)
+
+### 2. Remove your app lifecycle and export app as function
+
+![](https://i.postimg.cc/R0V5mmYJ/Screenshot-2025-03-17-at-1-53-25-pm.png)
